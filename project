@@ -12,4 +12,9 @@ class Net{
 	int id;
 	public int check();
 };
- 
+
+# Part 3
+互相调用的模块
+class Combine{
+	int id;
+}; 
