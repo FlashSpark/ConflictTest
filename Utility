@@ -1,0 +1,8 @@
+## class Utility
+## can be used in project
+
+class Utility{
+	int id;
+	public int Check();
+	public int Add();
+};

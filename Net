@@ -1,0 +1,8 @@
+## class Net
+## can be used to conn in project
+
+class Net{
+	int id;
+	public int check();
+	public int conn();
+};
