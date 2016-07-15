@@ -6,3 +6,8 @@ class Net{
 	public int check();
 	public int conn();
 };
+
+int Net::check()
+{
+	// do something
+};
