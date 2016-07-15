@@ -1,8 +1,15 @@
 ## Project file v0.0.1 Created
 
 # Part 1
-Utility
+class Utility{
+	int id;
+	public int check();
+};
 
 # Part 2
 Net Module
+class Net{
+	int id;
+	public int check();
+};
  
