@@ -10,4 +10,9 @@ class Net{
 int Net::check()
 {
 	// do something
-};
+}
+
+int Net::conn()
+{
+	// do something
+}
