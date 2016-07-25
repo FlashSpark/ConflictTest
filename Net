@@ -5,8 +5,24 @@ class Net{
 	int id;
 	public int check();
 	public int conn();
+	// 添加一个额外的功能
+	public int Extra();
 };
 
 ## extra affairs
 ## to do something
 
+int Net::check()
+{
+	// do something
+}
+
+int Net::conn()
+{
+	// do something
+}
+
+int Net::Extra()
+{
+	// do someting
+}
