@@ -2,8 +2,8 @@
 
 1 首次编辑该文件
 2 前边的编号有序
-3 
-4
+3 在develop分支上进行的修改a
+4 在develop分支上进行的修改b
 5 空着第三行和第四行，用于构造冲突
 6 在master 上拉出devlop分支
 7 master和develop同时修改产生commit
